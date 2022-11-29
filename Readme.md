@@ -11,4 +11,4 @@
 5. Возвращаем новый заполненый массив как результат
 
 ## Блок-схема
-[Alt!]("D:\GK\Final_Task\Final")
+![Final](https://user-images.githubusercontent.com/114096188/204607237-e89ca712-997c-493c-901f-c0d6b971b2c8.png)
