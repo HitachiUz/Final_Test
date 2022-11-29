@@ -12,3 +12,7 @@
 
 ## Блок-схема
 ![Final](https://user-images.githubusercontent.com/114096188/204614739-5f47474c-7d38-487d-9fa9-58e7a30d429d.png)
+
+## Программа
+
+Программу можно запустить в файле `task`
